@@ -1,2 +1,2 @@
-# quirinux-tahoma-deb-creator
-Creación de .deb personalizado para Quirinux del programa Tahoma2D
+# Quirinux Debian Package Creator
+Creación de .debs personalizados para Quirinux.
